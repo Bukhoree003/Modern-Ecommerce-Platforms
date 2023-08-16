@@ -18,4 +18,6 @@ The project is about developing an E-Commerce Website for Boo Shop, a book store
 Own Shope version: 1.2 <br/> 
 By Spiracle Themes
 
+## BPMN Diagram
+![process bpmn](img/bpmn.png)
 
