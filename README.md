@@ -21,3 +21,9 @@ By Spiracle Themes
 ## BPMN Diagram
 ![process bpmn](img/bpmn.png)
 This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online bookstore experience.
+
+## Conclusion
+............
+
+## Author
+Bukhoree Sohprajin - 631431003
