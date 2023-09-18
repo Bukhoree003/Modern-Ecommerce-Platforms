@@ -5,8 +5,22 @@ Bukhoree Sohprajin
 ## *Abstract*
 This project revolves around the development of Boo Shop's E-Commerce Website. Leveraging WordPress and WooCommerce, the platform offers a seamless and secure book-buying experience. This document provides an overview of the project, detailing its objectives, key features, and the value it brings to customers. It also includes a Business Process Model and Notation (BPMN) representation, elucidating the intricate processes that underpin the website's functionality. This project aims to create a user-centric online bookstore, bridging the gap between traditional and digital book shopping.
 
-## Project Overview
-The project is about developing an E-Commerce Website for Boo Shop, a book store. The website will be built using the **WordPress** content management system (CMS) and will integrate the WooCommerce plugin to facilitate seamless e-commerce functionality. This platform will allow Boo Shop customers to browse, select, and purchase books online, enhancing their shopping experience and providing a convenient way to access the store's offerings.
+## 1. Introduction
+In a world where shopping is going digital, Boo Shop is going online. This project is all about introducing Boo Shop's E-Commerce Website, where we're bringing the charm and variety of our physical store to the internet.
+
+Our E-Commerce Website, powered by WordPress and WooCommerce, is all about making book shopping easy. This introduction gives you a quick look at what we aim to achieve and how we're connecting the online and book-buying worlds.
+
+In the following sections, we delve into the project's methods, technologies, and strategies, aiming to create an engaging and user-friendly online bookstore. Through this project, Boo Shop reaffirms its commitment to promoting the love for literature in the digital age.
+
+## 2. Method
+My project leverages a pre-existing theme as the foundation for Boo Shop's E-Commerce Website. The theme is **Own Shope version: 1.2 By Spiracle Themes.** This theme comes equipped with essential design and user interface (UI) elements, product catalog features, responsive design, and more. We've tailored and enhanced this theme to meet our specific requirements, focusing on the following aspects:
+
+**2.1 Customization and Branding:** I customized the theme's appearance to align with Boo Shop's brand identity, ensuring a cohesive and visually appealing online presence.
+
+**2.2 Plugin Integration:** I integrated key plugins like WooCommerce, PDF Invoices & Packing Slips, 2C2P Redirect API for WooCommerce, and Opn Payments to extend the theme's functionality.
+
+**2.3** ...............................
+
 
 ![home one](img/home.png)
 ![book detail](img/bookdetail.png)
