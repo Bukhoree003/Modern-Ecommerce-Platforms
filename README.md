@@ -23,7 +23,7 @@ Own Shope version: 1.2 <br/>
 By Spiracle Themes
 
 ## BPMN Diagram
-![process bpmn](img/BpmnBooShop.png)
+![process bpmn](img/BpmnBooShop.jpg)
 This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online bookstore experience.
 
 ## All Pools in BPMN
