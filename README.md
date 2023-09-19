@@ -117,9 +117,16 @@ Represents the group of customers interacting with the platform.
 
 - **End Event (Red Circle)**
 
-### Website pool
-- pppp
-- ppp
+#### Website pool
+
+![website pool](img/websitepool.png)
+
+- **Check slip and confirm order process:** This process admin will check the slip of payment and confirm order.
+
+  ![order list](img/orderlist.png)
+  
+  ![check order](img/checkorder.png)
+
  
 ### Banking system pool
  dasdsadsadsa, sadsadsa.
