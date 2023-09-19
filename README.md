@@ -86,35 +86,36 @@ Represents the group of customers interacting with the platform.
 - **Start Event (Green Circle):** Marks the beginning of the customer's journey on the platform.
 
 - **Select Products:** The customer selects the desired products from the available options.
-- 
+  
   ![select item](img/selectitem.png)
   
-- **Add item to cart:** 
-      <img src="img/selectproduct.png" alt="Select Product" width="350" height="235">
+- **Add item to cart:** after select product process, customer will check in the cart. If the customer is satisfied with the selected product. they will go to checkout process. If not they will go back and select more item.
 
-  
-
-      <img src="img/cart.png" alt="Cart Product" width="400" height="190">
-
-
-- **Check Out Process:** The process to Checkout the product. 
+  ![cart one](img/Cart1.png)
+      
+- **Checkout Process:** The process to Checkout the product. 
 
   - **Fill the shipping detail:** The customer fill their shipping detail.
 
       <img src="img/shippingdetail.png" alt="Shipping Detail" width="350" height="235">
   
-  - **Identify payment method:** Payment information, such as credit card details, is entered.
+  - **Identify payment method:** customer choose the payment method. In my wetsite have 2 ways are 2C2P, and Bank transfer.
 
       <img src="img/paymantmed.png" alt="Payment Med" width="350" height="190">
-  
-  - **Make a payment:** In my website have 2 paymant method are banking tranfer and 2C2P.  
+      
+ - **Payment process:** The customer make a payment on what they choose (2C2p or Bank transfer). For Bank transfer, customer have to sent the payment proof to admin by using contact form to sent photo or customer can sent via messenger, Line, E-mai. For 2C2P payment, no need to sent payment proof to admin. because when customer make a payment it will show in website that customer already pay.
 
       <img src="img/banking.png" alt="Payment Banking" width="300" height="200" style="margin-right: 20px;">
      <img src="img/2c2p.png" alt="Payment 2c2p" width="300" height="200">
 </p>
 
-- **Send payment proof:** If the customer choose banking tranfer, they have to sent the photo of payment. but If the customer use 2C2P, they no need to sent the proof.
-- **Order Completed:** The final step indicating that the order has been successfully placed.
+- **Review order process:** In this process, customer can chect that the order is success or not. If not success, the order will cancel. If order is success, customer just wait for order to shipping.
+
+![review order](img/revieworder.png)
+
+- **Recieve the  product process:** Recieve the product from shipping company.
+
+- **End Event (Red Circle)**
 
 ### Website pool
 - pppp
