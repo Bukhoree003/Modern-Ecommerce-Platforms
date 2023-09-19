@@ -86,6 +86,7 @@ Represents the group of customers interacting with the platform.
 - **Start Event (Green Circle):** Marks the beginning of the customer's journey on the platform.
 
 - **Select Products:** The customer selects the desired products from the available options.
+  
 - **Add item to cart:** 
       <img src="img/selectproduct.png" alt="Select Product" width="350" height="235">
 
