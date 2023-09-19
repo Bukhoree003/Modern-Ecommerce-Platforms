@@ -127,17 +127,59 @@ Represents the group of customers interacting with the platform.
   
   ![check order](img/checkorder.png)
 
+- **Correct gataway:** when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
+  
+- **Check Stock process:** admin will check stock. If have product enough, It will go to next process (Prepare order for shipping process). If out of stock, the order will cancel.
+  
+- **Ship order to shipping company process:** This process is about sent product to shipping company.
+  
  
-### Banking system pool
- dasdsadsadsa, sadsadsa.
+#### 2C2P pool
 
-### 2C2P pool
-dasdsad dsadasdsad
-dasda
+ ![2c2p pool](img/2c2ppool.png)
+ 
+- **Payment Authorization**
+  
+- **Transaction Verification**
 
-### Shipping company
-its sdasdsda, dsadasdas. 
+- **Transaction Confirmation**
 
+- **Successful gataway:**
+
+- **End event**
+
+#### Banking system pool
+
+![banking pool](img/bankingpool.png)
+
+- **Payment Authorization Received:** Start event.
+
+- **Payment Authorization**
+
+- **Transaction Processing**
+
+- **Successful gataway:**
+
+- **End event**
+
+
+#### Shipping company pool
+
+![shipping pool](img/shippingpool.png)
+
+- **Receive Order for Shipment:** Start event.
+
+- **Package Label Generation:**
+
+- **Package Handover:**
+
+- **Order Tracking:**
+
+- **Delivery Confirmation:**
+
+- **End event**
+
+## 5. Conclusion
 
 
 
