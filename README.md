@@ -49,7 +49,7 @@ My project leverages a pre-existing theme as the foundation for Boo Shop's E-Com
 ## 4. Visual Overview
 Explore my Boo Shop E-Commerce Website through visual representations. This section includes a BPMN diagram outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality.
 
-#### 4.1 Website overview
+### 4.1 Website overview
 **HomePage**
 
 ![homepage one](img/Homepage1.png)
@@ -67,31 +67,29 @@ Explore my Boo Shop E-Commerce Website through visual representations. This sect
 
 
 
-#### 4.1 BPMN Diagram
+### 4.2 BPMN Diagram
 ![process bpmn](img/BpmnBooShop.jpg)
 This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online bookstore experience.
 
-## All Pools in BPMN
+#### All Pools in BPMN
 - Customer
 - Website
 - Banking system
 - 2C2P
 - Shipping company
 
-### Customer pool
+#### Customer pool
+Represents the group of customers interacting with the platform.
+
 ![pool customer](img/customerpool.png)
-- **Customer Pool:** Represents the group of customers interacting with the platform.
 
 - **Start Event (Green Circle):** Marks the beginning of the customer's journey on the platform.
 
-- **Make an Order Process:** Encompasses the steps related to creating an order.
-
-  - **Select Products:** The customer selects the desired products from the available options.
-
+- **Select Products:** The customer selects the desired products from the available options.
+- **Add item to cart:** 
       <img src="img/selectproduct.png" alt="Select Product" width="350" height="235">
 
   
-  - **Add to Cart:** The selected products are added to the customer's shopping cart.
 
       <img src="img/cart.png" alt="Cart Product" width="400" height="190">
 
