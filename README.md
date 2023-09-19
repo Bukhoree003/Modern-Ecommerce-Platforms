@@ -138,13 +138,13 @@ Represents the group of customers interacting with the platform.
 
  ![2c2p pool](img/2c2ppool.png)
  
-- **Payment Authorization**
+- **Payment Authorization:** Initial step to check if the payment details are valid and funds are available.
   
-- **Transaction Verification**
+- **Transaction Verification:** Ensures the transaction details are correct and match the customer's intentions.
 
-- **Transaction Confirmation**
+- **Transaction Confirmation:** Final step that confirms the successful payment, allowing the merchant to fulfill the order.
 
-- **Successful gataway:**
+- **Successful gataway:** If everything success, In website will show complete status. If not success, payment will failed.
 
 - **End event**
 
@@ -154,11 +154,11 @@ Represents the group of customers interacting with the platform.
 
 - **Payment Authorization Received:** Start event.
 
-- **Payment Authorization**
+- **Payment Authorization:** The initial step where the bank verifies the customer's identity and ensures they have sufficient funds for the transfer.
 
-- **Transaction Processing**
+- **Transaction Processing:** Once authorized, the bank processes the transfer, moving the funds from the sender's account to the recipient's account.
 
-- **Successful gataway:**
+- **Successful gataway:** If everything success, In website will show complete status. If not success, payment will failed.
 
 - **End event**
 
@@ -169,19 +169,20 @@ Represents the group of customers interacting with the platform.
 
 - **Receive Order for Shipment:** Start event.
 
-- **Package Label Generation:**
+- **Package Label Generation:** Creating shipping labels with package details.
 
-- **Package Handover:**
+- **Package Handover:** Sent product to customer by delivery man.
 
-- **Order Tracking:**
+- **Order Tracking:** Real-time monitoring of package status.
 
-- **Delivery Confirmation:**
+- **Delivery Confirmation:** Confirming successful package delivery.
 
 - **End event**
 
 ## 5. Conclusion
 
-
+Boo Shop's E-Commerce Website is a testament to the power of digital transformation in the world of bookselling. By combining the flexibility and user-friendly nature of WordPress and WooCommerce with careful customizations and strategic plugin integrations, we've created an online bookstore that mirrors the charm and diversity of our physical store.
 
 ## Author
-Bukhoree Sohprajin - 631431003 Fatoni University
+Bukhoree Sohprajin </br>
+631431003 Fatoni University
