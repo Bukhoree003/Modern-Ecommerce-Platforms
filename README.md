@@ -12,31 +12,37 @@ Our E-Commerce Website, powered by WordPress and WooCommerce, is all about makin
 
 In the following sections, we delve into the project's methods, technologies, and strategies, aiming to create an engaging and user-friendly online bookstore. Through this project, Boo Shop reaffirms its commitment to promoting the love for literature in the digital age.
 
-## 2. Method
+## 2. Software and Tools Used
+**2.1 Laragon:** [Laragon](https://laragon.org/why-laragon/) is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+
+**2.2 WordPress:** [WordPress](https://th.wordpress.org/) serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+
+**2.3 WooCommerce:** [WooCommerce](https://woocommerce.com/) is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+
+**2.4 Elementor:** [Elementor](https://elementor.com/) Elementor is a versatile page builder plugin employed to streamline the design process. It allows for easy customization of layouts and visual elements, enhancing the website's aesthetics and functionality.
+
+**2.5 PDF Invoices & Packing Slips for WooCommerce:** [PDF Invoices & Packing Slips for WooCommerce](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/) is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
+
+**2.6 2C2P Redirect API for WooCommerce:** I've incorporated the [2C2P Redirect API](https://developer.2c2p.com/docs) to facilitate secure payment processing. It enables our customers to choose from various payment options, enhancing their convenience.
+
+**2.7 Opn Payments:** [Opn Payments](https://et.wordpress.org/plugins/omise/) has been integrated to expand our payment gateway options, providing customers with even more flexibility in how they pay for their purchases.
+
+## 3. Method
 My project leverages a pre-existing theme as the foundation for Boo Shop's E-Commerce Website. The theme is **Own Shope version: 1.2 By Spiracle Themes.** This theme comes equipped with essential design and user interface (UI) elements, product catalog features, responsive design, and more. We've tailored and enhanced this theme to meet our specific requirements, focusing on the following aspects:
 
-**2.1 Customization and Branding:** I customized the theme's appearance to align with Boo Shop's brand identity, ensuring a cohesive and visually appealing online presence.
+**3.1 Customization and Branding:** I customized the theme's appearance to align with Boo Shop's brand identity, ensuring a cohesive and visually appealing online presence.
 
-**2.2 Plugin Integration:** I integrated key plugins like WooCommerce, PDF Invoices & Packing Slips, 2C2P Redirect API for WooCommerce, and Opn Payments to extend the theme's functionality.
+**3.2 Plugin Integration:** I integrated key plugins like WooCommerce, PDF Invoices & Packing Slips, 2C2P Redirect API for WooCommerce, and Opn Payments to extend the theme's functionality.
 
-**2.3** ...............................
+**3.3 Content management:** 
 
 
 ![home one](img/home.png)
 ![book detail](img/bookdetail.png)
 
-## Plugin
-- WooCommerce
-- Elementor
-- PDF Invoices & Packing Slips for WooCommerce
-- 2C2P Redirect API for WooCommerce
-- Opn Payments
-  
-## Theme
-Own Shope version: 1.2 <br/> 
-By Spiracle Themes
 
-## BPMN Diagram
+## 4. Visual Overview
+#### 4.1 BPMN Diagram
 ![process bpmn](img/BpmnBooShop.jpg)
 This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online bookstore experience.
 
