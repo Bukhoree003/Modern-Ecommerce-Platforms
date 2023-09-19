@@ -50,6 +50,20 @@ My project leverages a pre-existing theme as the foundation for Boo Shop's E-Com
 Explore my Boo Shop E-Commerce Website through visual representations. This section includes a BPMN diagram outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality.
 
 #### 4.1 Website overview
+**HomePage**
+
+![homepage one](img/Homepage1.png)
+![homepage two](img/Homepage2.png)
+![homepage four](img/Homepage4.png)
+
+**Shoppage**
+
+![shop page](img/shoppage.png)
+
+**Cart**
+
+![cart page](img/cart1.png)
+
 
 
 
