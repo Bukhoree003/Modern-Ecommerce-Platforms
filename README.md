@@ -58,11 +58,11 @@ Explore my Boo Shop E-Commerce Website through visual representations. This sect
 
 **Shoppage**
 
-![shop page](img/shoppage.png)
+![shop page](img/Shoppage.png)
 
 **Cart**
 
-![cart page](img/cart1.png)
+![cart page](img/Cart1.png)
 
 
 
