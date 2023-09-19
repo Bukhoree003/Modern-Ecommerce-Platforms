@@ -40,9 +40,13 @@ My project leverages a pre-existing theme as the foundation for Boo Shop's E-Com
 - Inventory Tracking: I use WooCommerce inventory management features to keep track of the availability of each book. This includes marking books as "in stock" or "out of stock," with automatic updates on the website.
 - Content Updates: WordPress allows for easy updates to book descriptions, reviews, and other content elements. This ensures that our website provides up-to-date and accurate information to our customers.
 - User-Generated Content: Customers can contribute to my content by leaving reviews and ratings for books they've purchased. WordPress handles the submission and display of these user-generated content pieces.
-- 
+  
 ## 4. Visual Overview
-Explore my Boo Shop E-Commerce Website through visual representations. This section includes a BPMN diagram outlining key processes and step-by-step screenshots of our website to provide a visual insight into the user experience and functionality.
+Explore my Boo Shop E-Commerce Website through visual representations. This section includes a BPMN diagram outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality.
+
+#### 4.1 Website overview
+
+
 
 #### 4.1 BPMN Diagram
 ![process bpmn](img/BpmnBooShop.jpg)
