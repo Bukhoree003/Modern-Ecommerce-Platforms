@@ -27,6 +27,10 @@ In the following sections, we delve into the project's methods, technologies, an
 
 **2.7 Opn Payments:** [Opn Payments](https://et.wordpress.org/plugins/omise/) has been integrated to expand our payment gateway options, providing customers with even more flexibility in how they pay for their purchases.
 
+**2.8 Contact Form 7:** [Conract From 7](https://th.wordpress.org/plugins/contact-form-7/") can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.
+
+**2.9 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
+
 ## 3. Method
 My project leverages a pre-existing theme as the foundation for Boo Shop's E-Commerce Website. The theme is **Own Shope version: 1.2 By Spiracle Themes.** This theme comes equipped with essential design and user interface (UI) elements, product catalog features, responsive design, and more. We've tailored and enhanced this theme to meet our specific requirements, focusing on the following aspects:
 
@@ -40,6 +44,7 @@ My project leverages a pre-existing theme as the foundation for Boo Shop's E-Com
 - Inventory Tracking: I use WooCommerce inventory management features to keep track of the availability of each book. This includes marking books as "in stock" or "out of stock," with automatic updates on the website.
 - Content Updates: WordPress allows for easy updates to book descriptions, reviews, and other content elements. This ensures that our website provides up-to-date and accurate information to our customers.
 - User-Generated Content: Customers can contribute to my content by leaving reviews and ratings for books they've purchased. WordPress handles the submission and display of these user-generated content pieces.
+
   
 ## 4. Visual Overview
 Explore my Boo Shop E-Commerce Website through visual representations. This section includes a BPMN diagram outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality.
