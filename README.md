@@ -3,7 +3,7 @@ Design and Develop Modern Ecommerce Plafform </br>
 Bukhoree Sohprajin
 
 ## *Abstract*
-This project revolves around the development of Boo Shop's E-Commerce Website. Leveraging WordPress and WooCommerce, the platform offers a seamless and secure book-buying experience. This document provides an overview of the project, detailing its objectives, key features, and the value it brings to customers. It also includes a Business Process Model and Notation (BPMN) representation, elucidating the intricate processes that underpin the website's functionality. This project aims to create a user-centric online bookstore, bridging the gap between traditional and digital book shopping.
+This project is a about the development of Boo Shop's E-Commerce Website. Leveraging WordPress and WooCommerce, the platform offers a seamless and secure book-buying experience. This document provides an overview of the project, method, software requirement, and the visual overview. It also includes a Business Process Model and Notation (BPMN) representation, elucidating the intricate processes that underpin the website's functionality. This project aims to create a user-centric online bookstore, bridging the gap between traditional and digital book shopping.
 
 ## 1. Introduction
 In a world where shopping is going digital, Boo Shop is going online. This project is all about introducing Boo Shop's E-Commerce Website, where we're bringing the charm and variety of our physical store to the internet.
