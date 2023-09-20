@@ -179,7 +179,14 @@ Represents the group of customers interacting with the platform.
 
 - **End event**
 
-## 5. Conclusion
+## 5. Agile Software Development
+
+I build Boo Shop's E-Commerce Website using **Agile**, a flexible approach perfect for our ever-changing e-commerce world.
+
+- Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
+- It's particularly suitable for projects like Boo Shop's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
+
+## 6. Conclusion
 
 Boo Shop's E-Commerce Website is a testament to the power of digital transformation in the world of bookselling. By combining the flexibility and user-friendly nature of WordPress and WooCommerce with careful customizations and strategic plugin integrations, we've created an online bookstore that mirrors the charm and diversity of our physical store.
 
