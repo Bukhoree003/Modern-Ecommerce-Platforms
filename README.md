@@ -101,7 +101,7 @@ Represents the group of customers interacting with the platform.
   
   - **Identify payment method:** customer choose the payment method. In my wetsite have 2 ways are 2C2P, and Bank transfer.
 
-      <img src="img/paymantmed.png" alt="Payment Med" width="350" height="190">
+      <img src="img/payment.png" alt="Payment Med" width="350" height="190">
       
  - **Payment process:** The customer make a payment on what they choose (2C2p or Bank transfer). For Bank transfer, customer have to sent the payment proof to admin by using contact form to sent photo or customer can sent via messenger, Line, E-mai. For 2C2P payment, no need to sent payment proof to admin. because when customer make a payment it will show in website that customer already pay.
 
