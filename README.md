@@ -120,7 +120,7 @@ Represents the group of customers interacting with the platform.
 
 #### Admin pool
 
-![admin pool](img/adminbpmn.png)
+![admin pool](img/admin.png)
 
 - **Add product:** This task represents the process of adding a new product to your e-commerce store's catalog. It includes entering product details, assigning categories, and setting pricing.
 
@@ -140,8 +140,6 @@ Represents the group of customers interacting with the platform.
 
     ![order admin](img/neworder.png)
 
-    ![check order](img/checkorder.png)
-
   - **Check slip and confirm order process:** This process admin will check the slip of payment and confirm order.
 
     ![confirm order](img/confirmorder.png)
@@ -155,7 +153,22 @@ Represents the group of customers interacting with the platform.
 
 ![website pool](img/websitepool.png)
 
-- **Check slip and confirm order process:** 
+- **Product management:** this task is about when admin manage about product such as adding new products, updating product information, or remove product. website will handle these things.
+- **Take Order:** this represents the point at which customer order details are sent for processing.
+- **Order status:** to show on website about order status that the customer will check such as pending payment, processing, completed, or cancelled.
+
+  ![order status](img/orderlist.png)
+  
+ - **Generate Packing Slip:** Website will generate packing slip for shipping.
+
+   ![packing slip](img/packingslip.png)
+
+- **Invoice gataway:** this task for customer who need a invoice.
+- **Generate Invoice:** Website will generate invoice for customer.
+
+  ![invoice one](img/invoice.png)
+
+- **End event**
   
  
 #### 2C2P pool
