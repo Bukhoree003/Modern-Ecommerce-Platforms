@@ -33,7 +33,7 @@ In the following sections, we delve into the project's methods, technologies, an
 
 ## 3. Method
 I built Boo Shop's E-Commerce Website using **Agile method**, a flexible approach perfect for our ever-changing e-commerce world.</br>
-•	Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
+•	Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.</br>
 •	It's particularly suitable for projects like Boo Shop's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
 
 
