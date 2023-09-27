@@ -32,6 +32,11 @@ In the following sections, we delve into the project's methods, technologies, an
 **2.9 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
 
 ## 3. Method
+I built Boo Shop's E-Commerce Website using **Agile method**, a flexible approach perfect for our ever-changing e-commerce world.
+•	Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
+•	It's particularly suitable for projects like Boo Shop's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
+
+
 My project leverages a pre-existing theme as the foundation for Boo Shop's E-Commerce Website. The theme is **Own Shope version: 1.2 By Spiracle Themes.** This theme comes equipped with essential design and user interface (UI) elements, product catalog features, responsive design, and more. We've tailored and enhanced this theme to meet our specific requirements, focusing on the following aspects:
 
 **3.1 Customization and Branding:** I customized the theme's appearance to align with Boo Shop's brand identity, ensuring a cohesive and visually appealing online presence.
