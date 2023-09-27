@@ -73,6 +73,7 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
 
 #### All Pools in BPMN
 - Customer
+- Admin
 - Website
 - Banking system
 - 2C2P
@@ -116,6 +117,10 @@ Represents the group of customers interacting with the platform.
 - **Recieve the  product process:** Recieve the product from shipping company.
 
 - **End Event (Red Circle)**
+
+#### Admin pool
+
+
 
 #### Website pool
 
