@@ -32,7 +32,7 @@ In the following sections, we delve into the project's methods, technologies, an
 **2.9 Chaty:** [Chaty](https://wordpress.org/plugins/chaty/") is a Floating Chat Widget plugin that user can click on link to get more contact with the website
 
 ## 3. Method
-I built Boo Shop's E-Commerce Website using **Agile method**, a flexible approach perfect for our ever-changing e-commerce world.
+I built Boo Shop's E-Commerce Website using **Agile method**, a flexible approach perfect for our ever-changing e-commerce world.</br>
 •	Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
 •	It's particularly suitable for projects like Boo Shop's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
 
